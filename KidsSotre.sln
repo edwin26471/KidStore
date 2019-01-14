@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "KidsSotre", "KidsSotre\", "{5A4B33EB-D40B-4DBB-BFAA-E871D721AE6D}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_51239"
+		Debug.AspNetCompiler.PhysicalPath = "KidsSotre\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51239\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_51239"
+		Release.AspNetCompiler.PhysicalPath = "KidsSotre\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51239\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "51239"
+		SlnRelativePath = "KidsSotre\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A4B33EB-D40B-4DBB-BFAA-E871D721AE6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A4B33EB-D40B-4DBB-BFAA-E871D721AE6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDABDE00-9DB5-4799-A7DE-DC33FAD18697}
+	EndGlobalSection
+EndGlobal
